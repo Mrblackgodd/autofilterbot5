@@ -50,7 +50,7 @@ async def start(client, message):
                     InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
                   ],[
-                    InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ', url="https://youtube.com/@movievilla99")
+                    InlineKeyboardButton('🔮 ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ 🔮', url="https://t.me/+kc6bYRCsWdlhOTI1")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
