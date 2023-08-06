@@ -43,14 +43,14 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rishi08")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ipopcornofficialgroup')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/rk_update')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://telegram.dog/Rkbotzbot')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+gkhvihXg5K5kM2Rl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/gfdgfdhdttrhh')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://telegram.dog/gfdgfdhdttrhh')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001650225505))
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001699469796))
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001943196163))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', '')
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/Rk_back_up/18')
 
